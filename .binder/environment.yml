@@ -1,0 +1,21 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - openmm
+  - pdbfixer
+  - mdanalysis
+  - mdtraj
+  - jupyterlab
+  - ipykernel
+  - ipympl
+  - nglview=3.1.2
+  - nodejs
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - pip
+  - pip:
+    - deeptime
