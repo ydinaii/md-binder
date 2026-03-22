@@ -1,2 +1,2 @@
 #!/bin/bash
-jupyter-nbextension enable widgetsnbextension --py --sys-prefix
+echo "Environment ready."
